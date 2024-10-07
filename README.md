@@ -1,4 +1,4 @@
-# A-0524 Intro to Web Dev 1 Exercise
+# Web 1 - Intro to Web Dev 1 Exercise
 
 1. Create an `index.html` file on your root directory
 2. On your index.html file, use the code below to start building your HTML page:
